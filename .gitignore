@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+.vs/WeatherDataProject/v14/.suo
+*.pyproj
+WeatherDataProject.sln
+WeatherDataProject.pyproj
+*.pyproj
