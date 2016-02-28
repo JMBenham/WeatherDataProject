@@ -13,6 +13,7 @@ class Student(models.Model):
     first_name = models.CharField(max_length = 50)
     last_name = models.CharField(max_length = 50)
     location = models.CharField(max_length = 50)
+    student_number = models.IntegerField()
 
 class WeatherData(models.Model):
     def __unicode__(self):
