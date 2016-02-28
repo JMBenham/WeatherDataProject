@@ -6,7 +6,7 @@ Currently the API provides two endpoints:
 
   /students/ for listing all of the students currently registered in the database
   
-  /students/<student_id> returns the dataset for the student corresponding to the inputted student number
+  /students/(student_id) returns the dataset for the student corresponding to the inputted student number
   
   This provides a way for the pk number of the student to be retreived as it is a required part of posting the weather data.
   
